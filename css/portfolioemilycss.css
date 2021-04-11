@@ -54,6 +54,6 @@ h1 {
 
     /* Add a color to the active/current link */
     .topnav a.active {
-        color:green;
+        color:purple;
     	text-decoration: underline;
     }
