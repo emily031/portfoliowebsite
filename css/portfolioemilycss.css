@@ -37,6 +37,12 @@ h1 {
         display: block;
         padding: 10px;
         background-color:#A2E0C1;
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 16px 16px;
+        text-decoration: none;
+        font-size: 20px;
     }
     /* Change the color of links on hover */
     .topnav a:hover {
