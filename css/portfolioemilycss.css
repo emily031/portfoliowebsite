@@ -29,7 +29,6 @@ h1 {
     /* Add a lightblue background color to the top navigation */
     .topnav {
         background-color: blue;
-        overflow: hidden;
     	text-decoration: none;
     }
 
