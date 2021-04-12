@@ -35,6 +35,7 @@ h1 {
 
     .topnav a{
         display: block;
+        float:center;
         padding: 10px;
         background-color:#A2E0C1;
         float: left;
