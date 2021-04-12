@@ -23,21 +23,17 @@ h1 {
         width: 100%;
         text-align: center;
         font-size: 30px ;
-      }
-
-    /* ~~ NAVIGATION ~~ */
-    /* Add a lightblue background color to the top navigation */
-    .topnav {
-        background-color: blue;
-    	text-decoration: none;
     }
 
     /* Style the links inside the navigation bar */
     li {
         float:center;
+        list-style-type: none;
+        margin:0;
+        padding: 0;
     }
 
-    a{
+    .topnav a{
         display: block;
         padding: 10px;
         background-color:#A2E0C1;
