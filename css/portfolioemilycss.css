@@ -109,13 +109,7 @@ a{
   justify-content: center;
 }
 
-header{
-  background-attachment: fixed; /* Parallax effect */
-  background-position: center;  /* Parallax effect */
-  background-repeat: no-repeat; /* Parallax effect */
-  background-size: cover;       /* Parallax effect */
-  height: 400px;                /* Parallax effect */
-}
+
 /* Change the color of links on hover */
 
 .hover {
@@ -160,9 +154,7 @@ a:visited {
 		transition: none !important;
 	}
   /*Turn off parallax*/
-  header{
-  background-attachment: initial;
-  }
+
 
 /* makes grid rows(3 rows top to bottom) */
 
