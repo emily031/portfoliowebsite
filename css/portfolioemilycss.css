@@ -189,10 +189,6 @@ a:visited {
 	fieldset {
 		justify-content: center
 	}
-	.resumepic {
-		width: 50%;
-		padding: 25px;
-	}
 	.gridcontainer {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
