@@ -101,7 +101,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-	background-color: peachpuff;
+	background-color: #fce7d4;
 }
 
 a{
@@ -128,7 +128,7 @@ header{
 
 .active {
 	color: sienna;
-	background-color: peachpuff;
+	background-color: #fce7d4;
 	border-style: solid;
 	border: color: indianred
 }
@@ -159,7 +159,10 @@ a:visited {
 		animation: none !important;
 		transition: none !important;
 	}
-
+  /*Turn off parallax*/
+  header{
+  background-attachment: initial;
+  }
 
 /* makes grid rows(3 rows top to bottom) */
 
