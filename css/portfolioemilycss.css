@@ -203,7 +203,9 @@ a:visited {
     text-align: center;
     font-size: 20px;
     }
-
+fieldset{
+  justify-content: center
+}
 	}
 	.resumepic {
 		width: 50%;
