@@ -208,4 +208,11 @@ a:visited {
 		animation: none !important;
 		transition: none !important;
 	}
+  html{
+    scroll-behavior: auto; /* Removes scroll animation */
+  }
+  /*Turn off parallax*/
+  header{
+    background-attachment: initial !important;
+  }
 }/* dont delete this bracket*/
