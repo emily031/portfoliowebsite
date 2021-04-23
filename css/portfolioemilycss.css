@@ -82,7 +82,6 @@ img:hover{
 }
 
 .profilepic {
-	padding: 25px;
   width:40%;
   animation-duration: 6s;
   animation-name: slidein;
@@ -96,7 +95,6 @@ img:hover{
 
   to {
     margin-left: 40%;
-
   }
 }
 
